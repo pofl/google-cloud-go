@@ -1,5 +1,12 @@
 # Changes
 
+## [0.67.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.66.0...v0.67.0) (2020-09-16)
+
+
+### Features
+
+* **all:** auto-regenerate gapics , refs [#2864](https://www.github.com/googleapis/google-cloud-go/issues/2864)
+
 ## [0.66.0](https://www.github.com/googleapis/google-cloud-go/compare/v0.65.0...v0.66.0) (2020-09-15)
 
 
